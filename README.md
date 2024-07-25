@@ -20,8 +20,8 @@ A Rust-based tool for automated SSH user management, integrated with Pluggable A
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pam-ssh-user-manager.git
-   cd pam-ssh-user-manager
+   git clone https://github.com/mranv/pamsshmanager.git
+   cd pamsshmanager
    ```
 
 2. **Build the Project:**
@@ -72,10 +72,6 @@ By automating user management and leveraging PAM, this tool reduces administrati
 ## Contributing
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
